@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://git.xykjgs.net:19000/XY-PaaS-frontend/xy-paas-console-frontend.git"
+    "url": "https://github.com/KarlKaijie/flow.git"
   },
   "keywords": ["update", "script"],
   "author": "Your Name",
