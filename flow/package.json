@@ -1,0 +1,17 @@
+{
+  "name": "workflow-dataflow-updater",
+  "version": "1.0.0",
+  "description": "A script for updating workflow and dataflow rendering components",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.xykjgs.net:19000/XY-PaaS-frontend/xy-paas-console-frontend.git"
+  },
+  "keywords": ["update", "script"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {}
+}
